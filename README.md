@@ -1,1 +1,3 @@
-# password-generator-
+# password-generator
+
+This is a password cli interface generator 
